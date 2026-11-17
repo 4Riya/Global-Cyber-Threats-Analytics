@@ -67,7 +67,7 @@ The Global Cyber Threats Analytics Dashboard is an interactive Power BI project 
 - Attack Sources by Type - Describe the most frequently recorded sources for different attack types.
 
 ## 📸 Dashboard Screenshots: 
-![Attack_Patterns](./Screenshots/Page3_Attack Patterns.png) 
+![Attack Patterns](./Screenshots/Page3_Attack_Patterns.png) 
 
 ### 4. Defense Effectiveness & Response Performance
 
@@ -80,7 +80,7 @@ The Global Cyber Threats Analytics Dashboard is an interactive Power BI project 
 - Resolution Time by Defense Mechanism - Compare average resolution times across recorded defense mechanisms.
 
 ## 📸 Dashboard Screenshots : 
-![Defense Mechanisms](./Screenshots/Page4_Defense Effectiveness.png)
+![Defense Mechanisms](./Screenshots/Page4_Defense_Effectiveness.png)
 
 ## 💡 Key Insights
 
