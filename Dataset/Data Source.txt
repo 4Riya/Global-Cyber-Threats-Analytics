@@ -1,0 +1,51 @@
+----------Global Cyber Threats Analytics Power BI Dashboard--------------
+
+
+1. Dataset Information
+
+Dataset Name: Global Cybersecurity Threats (2015–2024)
+
+Source: Kaggle
+
+Dataset Link: https://www.kaggle.com/datasets/atharvasoundankar/global-cybersecurity-threats-2015-2024
+
+2. Dataset Description
+
+This dataset contains global cybersecurity incident information recorded between 2015 and 2024. It provides information about cyberattacks, affected countries, targeted industries, financial losses, security vulnerabilities, and defense mechanisms.
+
+The dataset is used to identify cybersecurity trends, analyze attack patterns, and understand the financial impact of cyber threats across different countries.
+
+3. Key Dataset Attributes
+
+The dataset includes information related to:
+
+- Year of cyber incidents
+- Country affected
+- Attack type
+- Targeted industry
+- Number of affected users
+- Financial loss
+- Resolution time
+- Security vulnerabilities
+- Defense mechanisms
+
+4. Data Usage
+
+The dataset is used for:
+
+- Analyzing global cybersecurity incident trends.
+- Identifying the most common cyberattack types.
+- Comparing targeted industries.
+- Evaluating financial losses across countries.
+- Understanding security vulnerabilities.
+- Analyzing recorded defense mechanisms.
+
+5. Tools Used
+
+- Microsoft Power BI – Data modeling, visualization, and dashboard development.
+- Power Query – Data cleaning and transformation.
+- DAX – Calculated measures and KPIs.
+
+6. Conclusion
+
+This project will provide a concise, interactive view of global cybersecurity incidents from 2015–2024 by connecting threat frequency with impact, vulnerability. The project will demonstrate how raw cybersecurity data is transformed into an informative Power BI solution for analytical exploration and data-driven decision-making.
