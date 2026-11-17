@@ -48,4 +48,4 @@ The dataset is used for:
 
 6. Conclusion
 
-This project will provide a concise, interactive view of global cybersecurity incidents from 2015–2024 by connecting threat frequency with impact, vulnerability. The project will demonstrate how raw cybersecurity data is transformed into an informative Power BI solution for analytical exploration and data-driven decision-making.
+This project will provide a concise, interactive view of global cybersecurity incidents from 2015–2024 by connecting threat frequency with impact, vulnerability. 
