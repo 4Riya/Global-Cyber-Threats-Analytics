@@ -40,7 +40,7 @@ The Global Cyber Threats Analytics Dashboard is an interactive Power BI project 
 - Vulnerability Distribution - Identify the most frequently recorded vulnerability categories.
 - Attack Sources - Highlight the most frequently recorded attack sources.
 
-## 📸 ![Overview Dashboard](./Screenshots/Page1_Overview.png)
+![Overview Dashboard](./Screenshots/Page1_Overview.png)
 
 ### 2. Financial Exposure & Business Impact
 
