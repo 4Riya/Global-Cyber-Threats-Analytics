@@ -54,7 +54,7 @@ The Global Cyber Threats Analytics Dashboard is an interactive Power BI project 
 - Country Financial Exposure - Identify countries with the largest recorded financial losses.
 
 ## 📸 Dashboard Screenshots : 
-![Financial Impact](./Screenshots/Page2_Financial Impact.png)
+![Financial_Impact](./Screenshots/Page2_Financial Impact.png)
 
 ### 3. Attack Patterns & Vulnerability Intelligence
 
@@ -67,7 +67,7 @@ The Global Cyber Threats Analytics Dashboard is an interactive Power BI project 
 - Attack Sources by Type - Describe the most frequently recorded sources for different attack types.
 
 ## 📸 Dashboard Screenshots: 
-![Attack Patterns](./Screenshots/Page3_Attack Patterns.png) 
+![Attack_Patterns](./Screenshots/Page3_Attack Patterns.png) 
 
 ### 4. Defense Effectiveness & Response Performance
 
