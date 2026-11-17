@@ -40,7 +40,8 @@ The Global Cyber Threats Analytics Dashboard is an interactive Power BI project 
 - Vulnerability Distribution - Identify the most frequently recorded vulnerability categories.
 - Attack Sources - Highlight the most frequently recorded attack sources.
 
-## ![Overview Dashboard](./Screenshots/Page1_Overview.png)
+## 📸 Dashboard Screenshots : 
+![Overview Dashboard](./Screenshots/Page1_Overview.png)
 
 ### 2. Financial Exposure & Business Impact
 
@@ -52,7 +53,8 @@ The Global Cyber Threats Analytics Dashboard is an interactive Power BI project 
 - Financial Loss by Industry - Identifies industries with the highest financial exposure.
 - Country Financial Exposure - Identify countries with the largest recorded financial losses.
 
-## 📸 Dashboard Screenshots : ![Financial Impacts](./Screenshots/Page2_Financial_Impacts.png)
+## 📸 Dashboard Screenshots : 
+![Financial Impact](./Screenshots/Page2_Financial Impact.png)
 
 ### 3. Attack Patterns & Vulnerability Intelligence
 
@@ -64,7 +66,8 @@ The Global Cyber Threats Analytics Dashboard is an interactive Power BI project 
 - Attack Categories Analysis - Highlight attack categories with higher recorded financial losses and affected users.
 - Attack Sources by Type - Describe the most frequently recorded sources for different attack types.
 
-## 📸 Dashboard Screenshots: Page3_Attack Patterns.png
+## 📸 Dashboard Screenshots: 
+![Attack Patterns](./Screenshots/Page3_Attack Patterns.png) 
 
 ### 4. Defense Effectiveness & Response Performance
 
@@ -76,7 +79,8 @@ The Global Cyber Threats Analytics Dashboard is an interactive Power BI project 
 - Financial Loss vs Resolution Time - Explain whether higher-loss incidents tend to have longer resolution times.
 - Resolution Time by Defense Mechanism - Compare average resolution times across recorded defense mechanisms.
 
-## 📸 Dashboard Screenshots : Page4_Defense Effectiveness.png
+## 📸 Dashboard Screenshots : 
+![Defense Mechanisms](./Screenshots/Page4_Defense Effectiveness.png)
 
 ## 💡 Key Insights
 
